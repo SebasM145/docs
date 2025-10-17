@@ -24,13 +24,9 @@
             ]
           },
           {
-            "group": "Construir",
+            "group": "Inicia acá",
             "pages": [
-              "essentials/agents",
-              "essentials/prompts",
-              "essentials/knowledge-base",
-              "essentials/templates",
-              "essentials/custom-data"
+              "inicia-aca/primer-agente"
             ]
           },
           {
@@ -135,6 +131,7 @@
     ]
   },
   "footer": {
-    "socials": { }
+    "socials": {}
   }
 }
+
