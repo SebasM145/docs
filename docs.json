@@ -17,20 +17,23 @@
         "tab": "Guías",
         "groups": [
           {
-            "group": "Introducción",
+            "group": "Inicia aquí",
             "pages": [
               "index",
-              "quickstart"
-            ]
-          },
-          {
-            "group": "Inicia acá",
-            "pages": [
+              "quickstart",
               "inicia-aca/primer-agente"
             ]
           },
           {
-            "group": "Probar",
+            "group": "Construir tu agente",
+            "pages": [
+              "construir/overview",
+              "construir/single-prompt",
+              "construir/multi-prompt"
+            ]
+          },
+          {
+            "group": "Probar tu agente",
             "pages": [
               "test/overview",
               "test/playground",
@@ -38,7 +41,7 @@
             ]
           },
           {
-            "group": "Desplegar",
+            "group": "Desplegar tu agente",
             "pages": [
               "development/numbers",
               "development/sip",
@@ -46,46 +49,6 @@
               "development/sms",
               "development/versiones",
               "development/limites"
-            ]
-          },
-          {
-            "group": "Monitorear",
-            "pages": [
-              "monitor/panel",
-              "monitor/analiticas",
-              "monitor/webhooks",
-              "monitor/post-llamada"
-            ]
-          },
-          {
-            "group": "Confiabilidad y Depuración",
-            "pages": [
-              "reliability/vision-general",
-              "reliability/latencia",
-              "reliability/depuracion",
-              "reliability/abuso"
-            ]
-          },
-          {
-            "group": "Cuentas y Workspace",
-            "pages": [
-              "account/workspaces",
-              "account/control-de-acceso",
-              "account/kyc",
-              "account/facturacion",
-              "account/keys",
-              "account/privacidad"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Cambios",
-        "groups": [
-          {
-            "group": "Changelog",
-            "pages": [
-              "changelog/overview"
             ]
           }
         ]
@@ -134,4 +97,3 @@
     "socials": {}
   }
 }
-
